@@ -1,0 +1,80 @@
+.design-container
+{
+	border: 1px solid #00ffff;
+}
+
+.position-container
+{
+	margin-top: 15px;
+}
+
+.position-title
+{
+	text-align: center;
+	color: #00b3b3;
+}
+
+.font-family
+{
+		font-family: courier;
+		font-size: 20px;
+}
+
+.design-input
+{
+	width: 50px;
+	text-align: center;
+}
+
+.design-button
+{
+	background-color: #00e6e6;
+	color: white;
+	border: 1px solid #00e6e6;
+	border-radius: 5px;
+}
+
+.position-button-bottom
+{
+	margin-bottom: 30px;
+}
+
+.position-button-bottom:hover
+{
+	background-color: white;
+	color: black;
+}
+
+.position-button-bottom:active
+{
+	background-color: #00e6e6;
+	color: white;
+}
+
+.poition-a
+{
+	margin-left: 50px;
+}
+
+.color-result
+{
+	background-color: #33ccff;
+	color: white;
+}
+
+.color-result:hover
+{
+	background-color: white;
+	color: black;
+}
+
+input
+{
+	width: 250px;
+	text-align: center;
+}
+
+input:placeholder
+{
+	color: #94b8b8;
+}
